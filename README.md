@@ -8,6 +8,7 @@ This repository was created to increase our familiarity with open-source develop
 - [ ] remove any dead, commented, or unused code
 - [ ] included in build pipeline
 - [ ] include behavioral unit tests
+- [ ] add license agreement
 
 ## Credit
 https://ben.balter.com/
