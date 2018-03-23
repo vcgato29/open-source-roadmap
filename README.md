@@ -15,5 +15,7 @@ Feel free to contribute any relevant information as a comment on the issue or by
 - [ ] include behavioral unit tests
 - [ ] add license agreement
 
-## Credit
-https://ben.balter.com/
+## Credit & Resources
+* https://ben.balter.com/
+* https://www.lullabot.com/articles/best-practices-in-open-source-development
+* https://opensource.com/article/17/5/30-best-practices-software-development-and-testing
