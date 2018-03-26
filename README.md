@@ -1,6 +1,9 @@
 # open-source-roadmap
 This repository was created to increase our familiarity with open-source development, Git, and GitHub. 
 
+
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/C-Labs-Global?source=orgpage)
+
 ## Contributing Guidelines
 All conversations will start as an issue with the "discuss" label. 
 
